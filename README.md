@@ -4,5 +4,5 @@ I'm a junior student at East China Normal University, going by the name Qian Lee
 - 🔭 I'm currently majoring in Bioinformatics.
 - 🌱 I have a great passion for AI in life sciences. 
 - 🤔 Here, I'll also share some interesting life science cases. 
-- 😄 Studying them has been a constant source of joy for me, and I hope they can inspire you too. Stay tuned!
+- 😄 I hope they can inspire you too. Stay tuned!
 - 📫 How to reach me: 10213901403@stu.ecnu.edu.cn 
