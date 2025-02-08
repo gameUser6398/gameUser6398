@@ -1,5 +1,5 @@
 ## Hi there 👋
-Hello! I'm a junior student at East China Normal University, going by the name Qian Lee. 
+I'm a junior student at East China Normal University, going by the name Qian Lee. 
 
 - 🔭 I'm currently majoring in Bioinformatics.
 - 🌱 I have a great passion for AI in life sciences. 
